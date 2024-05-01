@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "Universidad de Alicante",
+                "latitude": "38.38413662957347",
+                "description": "Está muy delgadito y estreñido 🥲",
+                "thumb": null,
+                "credit": "City and County of Honolulu Purchase",
+                "objectid": "",
+                "creator": "Emilio José Ojeda Cano",
+                "longitude": "-0.5108207647372593",
+                "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/002_200105.JPG",
+                "date": "2024",
+                "discipline": "",
+                "title": "Aceituna",
+                "access": "Full"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5108207647372593,
+                    38.38413662957347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "Universidad de Alicante",
+                "latitude": "38.396530263392265",
+                "description": "Úlcera en la lengua y una herida en el cuello.",
+                "thumb": null,
+                "credit": "City and County of Honolulu Purchase",
+                "objectid": "",
+                "creator": "Emilio José Ojeda Cano",
+                "longitude": "-0.5177824635587535",
+                "imagefile": "http://hiculturearts.pastperfect-online.com/34250images/003/002_200105.JPG",
+                "date": "2024",
+                "discipline": "",
+                "title": "Vicenta",
+                "access": "Full"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5177824635587535,
+                    38.396530263392265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location": "Universidad de Alicante",
+                "latitude": "38.384144975428825",
+                "description": "Siempre van juntos.",
+                "objectid": "",
+                "longitude": "-0.5121154151008452",
+                "imagefile": "",
+                "discipline": "",
+                "title": "Mortadelo y Filemón"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5121154151008452,
+                    38.384144975428825
+                ]
+            },
+        }
+    ]
+}
+
