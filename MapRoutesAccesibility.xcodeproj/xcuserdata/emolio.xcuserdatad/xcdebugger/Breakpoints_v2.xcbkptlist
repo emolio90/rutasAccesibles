@@ -7,236 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3C15E3F0-6411-4A26-ABE2-9EC4A2026775"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
-            landmarkName = "loadInitialData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3C15E3F0-6411-4A26-ABE2-9EC4A2026775 - 77336a12bac41d05"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.reverseGeocoding(__C.CLLocationCoordinate2D) -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101">
-               </Location>
-               <Location
-                  uuid = "3C15E3F0-6411-4A26-ABE2-9EC4A2026775 - ef7581484e6b0f4e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "549152B8-A675-48CF-8CB2-B34A2710F8F0"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EE3AE403-7F25-4808-B363-47CCA8B52ED8"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "loadInitialData()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "10AD7128-B92B-4720-85DE-ADE82C88E705"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101"
-            landmarkName = "loadInitialData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "10AD7128-B92B-4720-85DE-ADE82C88E705 - ef7581484e6b0eca"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "105"
-                  endingLineNumber = "105">
-               </Location>
-               <Location
-                  uuid = "10AD7128-B92B-4720-85DE-ADE82C88E705 - 77336a12bac41d05"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.reverseGeocoding(__C.CLLocationCoordinate2D) -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101">
-               </Location>
-               <Location
-                  uuid = "10AD7128-B92B-4720-85DE-ADE82C88E705 - ef7581484e6b0f4e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B182F624-96B1-4E61-8B66-9E94A8330824"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "103"
-            endingLineNumber = "103"
-            landmarkName = "loadInitialData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B182F624-96B1-4E61-8B66-9E94A8330824 - ef7581484e6b0eca"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "105"
-                  endingLineNumber = "105">
-               </Location>
-               <Location
-                  uuid = "B182F624-96B1-4E61-8B66-9E94A8330824 - ef7581484e6b0e88"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "103"
-                  endingLineNumber = "103">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "974B8BDE-8869-4457-87EA-124738519136"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRoutesAccesibility/MapViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
-            landmarkName = "loadInitialData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "974B8BDE-8869-4457-87EA-124738519136 - ef7581484e6b0e34"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "107"
-                  endingLineNumber = "107">
-               </Location>
-               <Location
-                  uuid = "974B8BDE-8869-4457-87EA-124738519136 - ef7581484e6b0eeb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MapRoutesAccesibility.MapViewController.loadInitialData() -&gt; ()"
-                  moduleName = "MapRoutesAccesibility"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/emolio/Developer/iOS/MapRoutesAccesibility/MapRoutesAccesibility/MapViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "106"
-                  endingLineNumber = "106">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "92EEC576-0305-45A3-BA90-74936BBDFC94"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -244,9 +14,41 @@
             filePath = "MapRoutesAccesibility/MapViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
             landmarkName = "mapView(_:annotationView:calloutAccessoryControlTapped:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07BEDD23-2E98-4862-A68A-A24465E763A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapRoutesAccesibility/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0519F6E-0FB1-4A78-A2A5-9FBC7E647E31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapRoutesAccesibility/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

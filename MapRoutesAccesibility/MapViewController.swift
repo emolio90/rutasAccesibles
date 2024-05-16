@@ -15,6 +15,10 @@ class MapViewController: UIViewController {
     private var pois: [PointOfInterest] = []
     private var temporaryPin: MKPointAnnotation?
     
+    
+    let locationManager = CLLocationManager()
+    var isShowingUserLocation = false
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -41,6 +45,10 @@ class MapViewController: UIViewController {
         // Add a gesture recognizer to detect taps on the map
         let tapGesture = UITapGestureRecognizer(target: self, action: #selector(handleTap(_:)))
         mapView.addGestureRecognizer(tapGesture)
+        
+        
+        locationManager.delegate = self
+        locationManager.requestWhenInUseAuthorization()
     }
     
     @objc func handleTap(_ gestureRecognizer: UITapGestureRecognizer) {
@@ -162,6 +170,14 @@ extension MapViewController: MKMapViewDelegate {
         
         let launchOptions = [MKLaunchOptionsDirectionsModeKey: MKLaunchOptionsDirectionsModeDriving]
         pointOfInterest.mapItem?.openInMaps(launchOptions: launchOptions)
+    }
+}
+
+extension MapViewController: CLLocationManagerDelegate {
+    func locationManagerDidChangeAuthorization(_ manager: CLLocationManager) {
+        if manager.authorizationStatus == .authorizedWhenInUse {
+            mapView.showsUserLocation = true
+        }
     }
 }
 
